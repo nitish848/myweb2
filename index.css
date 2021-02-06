@@ -58,4 +58,7 @@ h5{
     .carousel-item img{
         height: 300px;
     }
+    .carousel-item{
+    height: 300px;
+} 
   }
