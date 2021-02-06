@@ -1,5 +1,5 @@
 body{
-    font-family: 'Pangolin', cursive;
+    font-family: 'Pangolin';
 }
 .carousel-item{
     height: 500px;
@@ -62,4 +62,12 @@ h5{
         height: 300px;
     } 
   }
-  
+.login1{
+    margin-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.signup1{
+    padding-left: 13px;
+    padding-right: 13px;
+}
