@@ -55,4 +55,7 @@ h5{
     .card {
       width: 300px !important;
     }
+    .carousel-item img{
+        height: 300px;
+    }
   }
